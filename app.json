@@ -1,0 +1,39 @@
+{
+  "id": "21676c48-a647-4f30-9baa-c464c31e043a",
+  "name": "ToolBox Add Localization Permissions",
+  "publisher": "hougaard.com",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "fe7b0b6a-e183-4606-882d-6adff0ce9401",
+      "name": "ToolBox",
+      "publisher": "Hougaard",
+      "version": "1.0.0.250"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 59900,
+      "to": 59949
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
